@@ -1,0 +1,17 @@
+
+.btn:hover{
+    background-color: #94a4f1;
+}
+
+.my-1{
+    margin: 0px 0;
+}
+
+.my-2{
+    margin: 20px;
+    /* border: 2px solid red; */
+}
+
+.text-center{
+    text-align: center;
+}
